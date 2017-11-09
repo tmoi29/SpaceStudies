@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SPACEEEEEE</title>
+  </head>
+  <body>
+    <h1>Look at these pics!</h1>
+    <br>
+    <img href = {{img1}}>
+    <br>
+    <img href = {{img2}}>
+    <h6>What are ya seeing?</h6>
+    <p>{{descrip}}</p>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+import urllib2, json
+
+uResp = urllib2.urlopen("https://api.nasa.gov/planetary/apod?api_key=sCOQtPYKmZp1EgtE4GsyDoIlaQ0fUo9vijo2Fyxp")
+print uResp.geturl()
