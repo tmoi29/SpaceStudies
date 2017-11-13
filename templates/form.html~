@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>URL Expander!</title>
+  </head>
+  <body>
+    <h1>What's the URL?</h1>
+    <form action="/expand">
+      <input type="text" name="shortUrl"><br>
+      <input type="submit" value="Tell me!">
+    </form>
+  </body>
+</html>
